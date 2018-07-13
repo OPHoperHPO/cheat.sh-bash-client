@@ -1,4 +1,4 @@
-# cheat.sh-bash-client
+# Cheat.sh BASH client
 Get amazing help on commands from your terminal! Use cheat.sh bash client!
 ## How it works?
 This tool is a simple bash script! Tool will parse your command and get information of your command from cheat.sh.
